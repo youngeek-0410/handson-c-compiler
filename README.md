@@ -4,7 +4,8 @@ Slack チャンネル: `#hands-on-c-compiler`
 ## 勉強会の進め方
 
 - [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook) を参加者メンバーで一緒に進めます。
-- **勉強会では開催日ごとにこのリポジトリで Discussion を作成し、そこでやったこと、詰まったことを記録していきます。**
+- **勉強会では開催日ごとにこのリポジトリで議事録を作成し、そこでやったこと、詰まったことを記録していきます。**
+  - https://github.com/youngeek-0410/handson-c-compiler/discussions
 
 ## 📆 勉強会開催日程
 
